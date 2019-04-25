@@ -1,0 +1,19 @@
+// Common
+export const SHOW_LOADING = 'SHOW_LOADING';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const HIDE_MODAL = 'HIDE_MODAL';
+
+// Trucks
+export const GET_CARGO_TYPES = 'GET_CARGO_TYPES';
+export const GET_CARGO_TYPES_SUCCESS = 'GET_CARGO_TYPES_SUCCESS';
+export const GET_TRUCK_STATUS = 'GET_TRUCK_STATUS';
+export const GET_TRUCK_STATUS_SUCCESS = 'GET_TRUCK_STATUS_SUCCESS';
+export const CREATE_TRUCK = 'CREATE_TRUCK';
+export const GET_TRUCKS = 'GET_TRUCKS';
+export const GET_TRUCKS_SUCCESS = 'GET_TRUCKS_SUCCESS';
+export const SEARCH_TRUCKS = 'SEARCH_TRUCKS';
+export const CHANGE_CURRENT_PAGE = 'CHANGE_CURRENT_PAGE';
+
+// Drivers
+export const GET_DRIVERS = 'GET_DRIVERS';
+export const GET_DRIVERS_SUCCESS = 'GET_DRIVERS_SUCCESS';
